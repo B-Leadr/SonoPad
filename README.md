@@ -12,8 +12,10 @@ A macro keyboard for managing a system's sound.
 - Consists of a base and top plate part that are fastened with 4 M3x5mx4mm heatset inserts and 4 M3x16mm screws
 - Base has a 15 degree tilt
 - Both parts can be 3D printed
+- Printed Knob for Rotary Encoder
 
-<img width="1520" height="572" alt="Hack_Pad_Case_Good_2026-Jun-18_06-40-43PM-000_CustomizedView10507829683_png" src="https://github.com/user-attachments/assets/a2d67883-012a-40e5-8e3f-5675ea42dcc9" />
+<img width="1520" height="572" alt="Hack_Pad_Case_Good_2026-Jun-19_12-49-57AM-000_CustomizedView5165432944_png_alpha" src="https://github.com/user-attachments/assets/1768e3cb-4df6-4ad5-9d5f-cb7df87cce2a" />
+
 
 ## PCB:
 - Wiring is simple as all the pullups and power supply are handling on the Speed xiao Rp2040 dev board
@@ -36,7 +38,8 @@ A macro keyboard for managing a system's sound.
 - 8x Cherry MX Switches
 - 8x 1N4148 Diodes
 - 8x DSA Keycaps
-- 4x M3x16mm Screws
+- 4x M3x4mm Screws
 - 4x M3x5x4 Heatset Inserts
 - 1x Case (2 printed parts)
+- 1x Knob (Printed)
 - 1x PCB (Etched by JLBPCB)
